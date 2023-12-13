@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/ivanchen/Downloads/core (2).jar",
+            "/Users/ivanchen/github-classroom/SACHSTech/processing-intro-ivannnc/lib/repl_core.jar"
+        ],
+        "exclude": [
+            "lib/repl_core.jar"
+        ]
+    }
+}
